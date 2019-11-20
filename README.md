@@ -8,8 +8,10 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
 1. Conceptos generales (días 1 y 2)
     1. Regresor logistico como una neurona
         1. Análisis desde el grafo de cómputo.
-        2. Descenso del gradiente.
+        2. Implementación tradicional.
         3. Broadcasting / Vectorization.
+        4. Implementación vectorizada.
+        5. Descenso del gradiente.
     2. El operador XOR
         1. Clasificación no-lineal.
         2. Descomposición lineal.
