@@ -14,7 +14,7 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
         5. Descenso del gradiente.
     2. El operador XOR
         1. Clasificación no-lineal.
-        2. Descomposición lineal.
+        2. XOR y su descomposición lineal.
         3. Regresores lineales en capas.
     3. Red Neuronal y Backpropagation (descenso del gradiente generalizado)
         1. Notación.
