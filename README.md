@@ -16,10 +16,11 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
         1. Clasificación no-lineal.
         2. Descomposición lineal.
         3. Regresores lineales en capas.
-    3. Backpropagation (descenso del gradiente generalizado)
-        1. Análisis del descenso del gradiente y regla de la cadena.
-        2. Implementación general utilizando diccionarios.
-        3. Errores y funciones de activación.
+    3. Red Neuronal y Backpropagation (descenso del gradiente generalizado)
+        1. Notación.
+        2. Análisis del descenso del gradiente y regla de la cadena.
+        3. Implementación general utilizando diccionarios.
+        4. Errores y funciones de activación.
 2. Conceptos tecnológicos (tensorflow.keras) (días 3 y 4)
     1. Bloques de construcción
         1. Inputs
