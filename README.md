@@ -22,15 +22,15 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
         - Backpropagation.
         - Errores y funciones de activación.
 2. Conceptos tecnológicos (tensorflow.keras) (días 3 y 4)
-    1. Bloques de construcción
-        1. Inputs
-        2. Layers
-        3. losses
-        4. optimizers
-    2. Cableado de los bloques
+    1. Primera red en Keras 
+    2. Construcción de redes
         1. Construcción como lista.
         2. Agregación de capas (model.add).
         3. Capa Input y conexión por capa.
+    3. Algunos aspectos técnicos
+        1. Activations
+        2. losses
+        3. optimizers
     3. Preparación del dataset
         1. Estructura del dataset.
         2. Train / Test (dataset split).
