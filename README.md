@@ -6,13 +6,13 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
 ## Contenido:
 
 1. Conceptos generales (días 1 y 2)
-    1. Regresor logistico como una neurona. <a href="https://drive.google.com/file/d/15Te5pSNdYj0m4sQ96hQOIrK-NR2JXSEs/view?usp=sharing">link</a>
+    1. Regresor logistico como una neurona. <a href="https://colab.research.google.com/drive/1G4FS7fqJYl0iq3m1oX9IWrH7l6iCymMd">link</a>
         1. Análisis desde el grafo de cómputo.
         2. Implementación tradicional.
         3. Broadcasting / Vectorization.
         4. Implementación vectorizada.
         5. Descenso del gradiente.
-    2. El operador XOR. <a href="https://drive.google.com/file/d/1StZwLr7wcXq54HUYKgzlPfD6Uq57bon-/view?usp=sharing">link</a>
+    2. El operador XOR. <a href="https://colab.research.google.com/drive/1cdyj7wISIXyg1TIjX88vXlGZgTfXOPlp">link</a>
         1. Clasificación no-lineal.
         2. XOR y su descomposición lineal.
         3. Regresores lineales en capas.
