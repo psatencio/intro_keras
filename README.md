@@ -16,29 +16,24 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
         1. Clasificación no-lineal.
         2. XOR y su descomposición lineal.
         3. Regresores lineales en capas.
-    3. Red Neuronal y Backpropagation (descenso del gradiente generalizado)
+    3. Red Neuronal y Backpropagation (descenso del gradiente generalizado) <a href="https://colab.research.google.com/drive/1nQ69bRBGqe8sbtT10WhchyXr6Kvd14fL">link</a>
         - Notación.
         - Forward propagation.
         - Backpropagation.
         - Errores y funciones de activación.
 2. Conceptos tecnológicos (tensorflow.keras) (días 3 y 4)
     1. Primera red en Keras 
-    2. Construcción de redes
-        1. Construcción como lista.
-        2. Agregación de capas (model.add).
-        3. Capa Input y conexión por capa.
-    3. Algunos aspectos técnicos
+    2. Ensamble de la red: a) Construcción como lista b) Agregación de capas (model.add) b) "Cableado" manual.
+    3. Compilación
+    4. Algunos aspectos técnicos
         1. Activations
         2. losses
         3. optimizers
-    3. Preparación del dataset
+    5. Preparación del dataset
         1. Estructura del dataset.
         2. Train / Test (dataset split).
-    4. Entrenamiento y validación.
-        1. model.compile()
-        2. model.fit()
-        3. history
-    5. Redes de ejemplo
+    6. Entrenamiento y validación.
+    7. Redes de ejemplo
         1. Clasificación y Regresión.
         2. Convolución 2D (concepto).
         3. Series de tiempo (redes recurrentes).
