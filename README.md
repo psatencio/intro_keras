@@ -22,18 +22,18 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
         - Backpropagation.
         - Errores y funciones de activación.
 2. Conceptos tecnológicos (tensorflow.keras) (días 3 y 4)
-    1. Primera red en Keras 
-    2. Ensamble de la red: a) Construcción como lista b) Agregación de capas (model.add) b) "Cableado" manual.
-    3. Compilación
-    4. Algunos aspectos técnicos
-        1. Activations
-        2. losses
-        3. optimizers
-    5. Preparación del dataset
-        1. Estructura del dataset.
-        2. Train / Test (dataset split).
-    6. Entrenamiento y validación.
-    7. Redes de ejemplo
+    1. Introducción a Keras. <a href="https://colab.research.google.com/drive/1HbKczB-BXFO2Xg4QE0W2Ix5oBa_xFumE">link</a>
+        1. Primera red en Keras.
+        2. Ensamble de la red: a) Construcción como lista b) Agregación de capas (model.add) b) "Cableado" manual.
+        3. Compilación.
+        4. Preparacion del dataset.
+            Split.
+            K-Fold.
+        5. Entrenamiento y validación.
+            model.evaluate()
+            Evaluacion durante el entrenamiento.
+        6. Ejemplo: MNIST.
+    2. Aplicaciones
         1. Clasificación y Regresión.
         2. Convolución 2D (concepto).
         3. Series de tiempo (redes recurrentes).
