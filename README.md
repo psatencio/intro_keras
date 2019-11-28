@@ -33,12 +33,14 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
             model.evaluate()
             Evaluacion durante el entrenamiento.
         6. Ejemplo: MNIST.
-    2. Aplicaciones
+    2. Aplicaciones. <a href="https://colab.research.google.com/drive/1ceI-3gWA448fZ44707oZ6BUBf5Tdarod">link</a>
         1. Clasificación y Regresión.
-        2. Convolución 2D (concepto).
-        3. Series de tiempo (redes recurrentes).
+        2. Redes convolutivas.
+        3. Redes recurrentes
+        4. Utilizando una red profunda pre-entrenada.
+        5. Deep features / Latent spaces.
+        6. Fine-tuning: Utilizar una red pre-entrenada y afinarla para que trabaje con nuestros datos.
 3. Conceptos utilitarios (día 5)
-    1. Fine-tuning: Utilizar una red pre-entrenada y afinarla para que trabaje con nuestros datos.
     2. Callbacks: Tomar decisiones durante el proceso de entrenamiento.
     3. Grid search: Encontrar los mejores parámetros de la red.
     4. Lamba layers: Construir nuestras propias capas de red neuronal.
