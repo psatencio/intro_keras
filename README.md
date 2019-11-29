@@ -40,9 +40,10 @@ Repositorio del taller - Introducción a las redes neuronales en Keras - desarro
         4. Utilizando una red profunda pre-entrenada.
         5. Deep features / Latent spaces.
         6. Fine-tuning: Utilizar una red pre-entrenada y afinarla para que trabaje con nuestros datos.
-3. Conceptos utilitarios (día 5)
-    2. Callbacks: Tomar decisiones durante el proceso de entrenamiento.
-    3. Grid search: Encontrar los mejores parámetros de la red.
-    4. Lamba layers: Construir nuestras propias capas de red neuronal.
+3. Conceptos utilitarios (día 5). <a href="https://colab.research.google.com/drive/1_wJkHW47yMfTmCy2v-iit3AeASd0Nf91">link</a>
+    1. Callbacks: Tomar decisiones durante el proceso de entrenamiento.
+    2. Lamba layers: Construir nuestras propias capas de red neuronal.
+    3. Estimación del  learning_rate
+    4. Grid search: Encontrar los mejores parámetros de la red.
     5. Custom losses: Construir nuestras propias funciones de error.
-    6. Activations: Construir nuestras propias funciones de activación.
+    6. Custom Activations: Construir nuestras propias funciones de activación.
